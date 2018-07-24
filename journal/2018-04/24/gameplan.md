@@ -17,11 +17,11 @@
 - [x] Put in the right username/password tokens for "reactiveuibot"@github
 - [x] Is patch version v4.0.[1..3]?
 - [x] Configure branch protection so folks can't push master, must PR
-- [-] Open dodgy PR does it go RED?
-- [ ] Verify is pushed to MyGet
+- [x] Open dodgy PR does it go RED?
+- [x] Verify is pushed to MyGet
 - [ ] Push to NuGet and verify it goes live.
 
 - [ ] Splat v4.0.x release announcement
 
 # Non goals
-- Splat 4.1.0 is toast, can't reuse the package beause it wasn't signed
+- Splat 4.0.1 is toast, can't reuse the package beause it wasn't signed
